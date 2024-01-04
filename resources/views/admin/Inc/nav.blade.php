@@ -37,7 +37,14 @@
                         class="user-auth-img img-circle" /><span class="user-online-status"></span></a>
                 <ul class="dropdown-menu user-auth-dropdown" data-dropdown-in="flipInX" data-dropdown-out="flipOutX">
                     <li>
-                        <a href="{{ route('logout') }}"><i class="zmdi zmdi-power"></i><span>Log Out</span></a>
+                        <a class="dropdown-item text-danger" href="{{ route('logout') }}"
+                            onclick="event.preventDefault();
+                           document.getElementById('logout-form').submit();">
+                            <i class="fa fa-key mr-2"></i> Logout
+                        </a>
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                            @csrf
+                        </form>
                     </li>
                 </ul>
             </li>
