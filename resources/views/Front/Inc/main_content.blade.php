@@ -110,17 +110,120 @@
 
                     </div> <!-- About Event End -->
                 </div><!-- Col End -->
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="card-header wow fadeIn" data-wow-delay=".1s"> Editorial board</h2>
+                    <div class="card-body">
+                        <div class="row  text-center">
+                            <div class="col-md-3 p-4 border">
+                                <div class="">
+                                    <img src="{{ asset('slider_image/editor/613f8003b6fc2.jpeg') }}" alt=""
+                                        class="img-fluid rounded">
+                                </div>
+                                <div class="mt-3">
+                                    <h4> Dr. M. Maniruzzaman</h4>
+                                    <h5>Editor -in-Chief</h5>
+                                    <p>Professor, Department of English, Jahangirnagar University</p>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-4 border">
+                                <div class="">
+                                    <img src="{{ asset('slider_image/editor/613f80debdae6.jpeg') }}" alt=""
+                                        class="img-fluid rounded">
+                                </div>
+                                <div class="mt-3">
+                                    <h4>Dr. Tanvir Fittin Abir</h4>
+                                    <h5>Executive Editor</h5>
+                                    <p>Associate Professor, Department of Business Administration, Daffodil International
+                                        University</p>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-4 border">
+                                <div class="">
+                                    <img src="{{ asset('slider_image/consultans/6152ca8378f79.jpeg') }}" alt=""
+                                        class="img-fluid rounded">
+                                </div>
+                                <div class="mt-3">
+                                    <h4>Sk Obaidullah</h4>
+                                    {{-- <h5>Editor -in-Chief</h5> --}}
+                                    <p>PhD fellow, PU, Gujarat, India. CEO, Research Hub Bangladesh</p>
+                                </div>
+                            </div>
+                            <div class="col-md-3 p-4 border">
+                                <div class="">
+                                    <img src="{{ asset('slider_image/consultans/6152cb4e43712.jpeg') }}" alt=""
+                                        class="img-fluid rounded">
+                                </div>
+                                <div class="mt-3">
+                                    <h4>A.F.M. Moshiur Rahman</h4>
+                                    {{-- <h5>Editor -in-Chief</h5> --}}
+                                    <p>PhD Fellow, KU, Director, (Research and Publication), Research Hub Bangladesh</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="card-header wow fadeIn" data-wow-delay=".1s"> Publisher</h2>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-12 p-4">
+                                <div class="container">
+                                    <h3 class="text-center text-uppercase">Research Hub Bangladesh</h3>
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+                                            <div class="card border-0">
+                                                <div class="card-body text-center">
+                                                    <i class="fa fa-envelope fa-5x mb-3" aria-hidden="true"></i>
+                                                    <h4 class="text-uppercase">email</h4>
+                                                    <p>editorijhab@gmail.com</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+                                            <div class="card border-0">
+                                                <div class="card-body text-center">
+                                                    <i class="fa fa-phone fa-5x mb-3" aria-hidden="true"></i>
+                                                    <h4 class="text-uppercase">call us</h4>
+                                                    <p>(+880)1714449527, (+880)1785641759</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+                                            <div class="card border-0">
+                                                <div class="card-body text-center">
+                                                    <i class="fa fa-map-marker fa-5x mb-3" aria-hidden="true"></i>
+                                                    <h4 class="text-uppercase">Address </h4>
+                                                    <address>36/4, Pallabi, Mirpur, Dhaka, Bangladesh </address>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-6 col-lg-3 my-5">
+                                            <div class="card border-0">
+                                                <div class="card-body text-center">
+                                                    <i class="fa fa-globe fa-5x mb-3" aria-hidden="true"></i>
+                                                    <h4 class="text-uppercase">Website</h4>
+                                                    <address>www.ijhab.com</address>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
 
-
-
-
-            </div> <!-- Row End -->
-        </div> <!-- Container end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
-    <!-- About Area End -->
     <section id="tl-service" class="tl-service bg-solid">
         <div class="container">
-
-        </div> <!-- Container end -->
+        </div>
     </section>
 @endsection
