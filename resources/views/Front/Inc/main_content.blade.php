@@ -174,7 +174,8 @@
                         <div class="row">
                             <div class="col-md-12 p-4">
                                 <div class="container">
-                                    <h3 class="text-center text-uppercase">Research Hub Bangladesh</h3>
+                                    <h2 class="text-center bold">Country of publication : Bangladesh</h2>
+                                    <h3 class="text-center">Published by : Research Hub Bangladesh</h3>
                                     <div class="row">
                                         <div class="col-sm-12 col-md-6 col-lg-3 my-5">
                                             <div class="card border-0">
@@ -199,7 +200,8 @@
                                                 <div class="card-body text-center">
                                                     <i class="fa fa-map-marker fa-5x mb-3" aria-hidden="true"></i>
                                                     <h4 class="text-uppercase">Address </h4>
-                                                    <address>36/4, Pallabi, Mirpur, Dhaka, Bangladesh </address>
+                                                    <address>Bangladesh Office : 36/4, Pallabi, Mirpur, Dhaka, Bangladesh
+                                                    </address>
                                                 </div>
                                             </div>
                                         </div>
