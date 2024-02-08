@@ -117,7 +117,7 @@
                     <h2 class="card-header wow fadeIn" data-wow-delay=".1s"> Editorial board</h2>
                     <div class="card-body">
                         <div class="row  text-center">
-                            <div class="col-md-3 p-4 border">
+                            <div class="col-md-3 p-3 border">
                                 <div class="">
                                     <img src="{{ asset('slider_image/editor/613f8003b6fc2.jpeg') }}" alt=""
                                         class="img-fluid rounded">
@@ -126,9 +126,13 @@
                                     <h4> Dr. M. Maniruzzaman</h4>
                                     <h5>Editor -in-Chief</h5>
                                     <p>Professor, Department of English, Jahangirnagar University</p>
+                                    <p>
+                                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                                        E-mail : <a href="mailto:mmz71@juniv.edu"> mmz71@juniv.edu </a>
+                                    </p>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-4 border">
+                            <div class="col-md-3 p-3 border">
                                 <div class="">
                                     <img src="{{ asset('slider_image/editor/613f80debdae6.jpeg') }}" alt=""
                                         class="img-fluid rounded">
@@ -138,9 +142,13 @@
                                     <h5>Executive Editor</h5>
                                     <p>Associate Professor, Department of Business Administration, Daffodil International
                                         University</p>
+                                    <p>
+                                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                                        E-mail : <a href="mailto:t.abir73@gmail.com"> t.abir73@gmail.com </a>
+                                    </p>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-4 border">
+                            <div class="col-md-3 p-3 border">
                                 <div class="">
                                     <img src="{{ asset('slider_image/consultans/6152ca8378f79.jpeg') }}" alt=""
                                         class="img-fluid rounded">
@@ -149,9 +157,13 @@
                                     <h4>Sk Obaidullah</h4>
                                     {{-- <h5>Editor -in-Chief</h5> --}}
                                     <p>PhD fellow, PU, Gujarat, India. CEO, Research Hub Bangladesh</p>
+                                    <p>
+                                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                                        E-mail : <a href="mailto:skbadal1981@gmail.com">skbadal1981@gmail.com </a>
+                                    </p>
                                 </div>
                             </div>
-                            <div class="col-md-3 p-4 border">
+                            <div class="col-md-3 p-3 border">
                                 <div class="">
                                     <img src="{{ asset('slider_image/consultans/6152cb4e43712.jpeg') }}" alt=""
                                         class="img-fluid rounded">
@@ -160,6 +172,11 @@
                                     <h4>A.F.M. Moshiur Rahman</h4>
                                     {{-- <h5>Editor -in-Chief</h5> --}}
                                     <p>PhD Fellow, KU, Director, (Research and Publication), Research Hub Bangladesh</p>
+                                    <p>
+                                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                                        E-mail : <a href="mailto:moshiureu@gmail.com"> moshiureu@gmail.com </a>
+                                    </p>
+
                                 </div>
                             </div>
                         </div>
