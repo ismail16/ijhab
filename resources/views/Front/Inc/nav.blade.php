@@ -4,8 +4,7 @@
         <div class="tl-logo-area">
             <div class="container text-center">
                 <a href="{{ url('/') }}">
-                    <img src="{{ asset('asset_front/images/logos/logo.png') }}" alt=""
-                        class="responsive; importent!">
+                    <img src="{{ asset('asset_front/images/logos/logo.png') }}" alt="" class="img-fluid">
                 </a>
             </div>
         </div>
