@@ -148,37 +148,62 @@
                                     </p>
                                 </div>
                             </div>
+
                             <div class="col-md-3 p-3 border">
+                                <div class="">
+                                    <img src="{{ asset('slider_image/editor/6153514718b4b.jpeg') }}" alt=""
+                                        class="img-fluid rounded">
+                                </div>
+                                <div class="mt-3">
+                                    <h4>Dr. Kingsley Agho</h4>
+                                    <h5>Editor</h5>
+                                    <p>Associate professor, school of Health science, Western Sidney University</p>
+                                </div>
+                            </div>
+
+
+                            <div class="col-md-3 p-3 border">
+                                <div class="">
+                                    <img src="{{ asset('slider_image/editor/6153517ea1ece.jpeg') }}" alt=""
+                                        class="img-fluid rounded">
+                                </div>
+                                <div class="mt-3">
+                                    <h4>Dr. Nick Naumov</h4>
+                                    <h5>Editor</h5>
+                                    <p>
+                                        Senior Lecturer, Faculty of Business and Law, University of Northampton
+                                    </p>
+                                </div>
+                            </div>
+
+                            {{-- <div class="col-md-3 p-3 border">
                                 <div class="">
                                     <img src="{{ asset('slider_image/consultans/6152ca8378f79.jpeg') }}" alt=""
                                         class="img-fluid rounded">
                                 </div>
                                 <div class="mt-3">
                                     <h4>Sk Obaidullah</h4>
-                                    {{-- <h5>Editor -in-Chief</h5> --}}
                                     <p>PhD fellow, PU, Gujarat, India. CEO, Research Hub Bangladesh</p>
                                     <p>
                                         <i class="fa fa-envelope" aria-hidden="true"></i>
                                         E-mail : <a href="mailto:skbadal1981@gmail.com">skbadal1981@gmail.com </a>
                                     </p>
                                 </div>
-                            </div>
-                            <div class="col-md-3 p-3 border">
+                            </div> --}}
+                            {{-- <div class="col-md-3 p-3 border">
                                 <div class="">
                                     <img src="{{ asset('slider_image/consultans/6152cb4e43712.jpeg') }}" alt=""
                                         class="img-fluid rounded">
                                 </div>
                                 <div class="mt-3">
                                     <h4>A.F.M. Moshiur Rahman</h4>
-                                    {{-- <h5>Editor -in-Chief</h5> --}}
                                     <p>PhD Fellow, KU, Director, (Research and Publication), Research Hub Bangladesh</p>
                                     <p>
                                         <i class="fa fa-envelope" aria-hidden="true"></i>
                                         E-mail : <a href="mailto:moshiureu@gmail.com"> moshiureu@gmail.com </a>
                                     </p>
-
                                 </div>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
